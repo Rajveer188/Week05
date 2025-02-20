@@ -1,0 +1,8 @@
+<ObjectNode>
+    <id>101</id>
+    <name>Rajveer</name>
+    <age>25</age>
+    <email>rajveer@gmail.com</email>
+    <skills>Java</skills>
+    <skills>Spring</skills>
+</ObjectNode>
